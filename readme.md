@@ -31,13 +31,13 @@
 * Button to disable everything
 
 #### Tools
-Soldering Iron
-Soldering Flux
-Soldering Wire
-Multimeter
-Twizers
-Breadboard
-Screw Driver
+* Soldering Iron
+* Soldering Flux
+* Soldering Wire
+* Multimeter
+* Twizers
+* Breadboard
+* Screw Driver
 
 
 ### Consumables
@@ -45,3 +45,17 @@ Screws
 Connecting Cables MM, MF, FF
 Supply Cable
 2 amp Supply
+
+### Steps
+Circuit
+  Motor Driver
+  Wireless Signal Module
+  Wifi Signal Receive
+  Accelerometer
+
+Assembling
+Programming
+Soldering
+
+
+####
