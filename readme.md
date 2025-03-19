@@ -39,23 +39,30 @@
 * Breadboard
 * Screw Driver
 
-
 ### Consumables
-Screws
-Connecting Cables MM, MF, FF
-Supply Cable
-2 amp Supply
+* Screws
+* Connecting Cables MM, MF, FF
+* Supply Cable
+* 2 amp Supply
+
+### Store
+* Screws white box
+* Soldering station
+* Drill
+* Screw driver set
+* Bread board
+* Magnets
 
 ### Steps
-Circuit
-  Motor Driver
-  Wireless Signal Module
-  Wifi Signal Receive
-  Accelerometer
+* Circuit
+**  Motor Driver
+**  Wireless Signal Module
+**  Wifi Signal Receive
+**  Accelerometer
 
-Assembling
-Programming
-Soldering
+#### Assembling
+#### Programming
+#### Soldering
 
 
 ####
