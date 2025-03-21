@@ -52,6 +52,7 @@
 * Screw driver set
 * Bread board
 * Magnets
+* Tablets
 
 ### Steps
 * Circuit
